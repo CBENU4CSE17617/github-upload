@@ -1,5 +1,10 @@
 test rebase merge
 test conflict merge
 test conflict merge
+<<<<<<< HEAD
 test conflict merge2
 test conflict merge3s
+=======
+test conflict merge
+test conflict merge
+>>>>>>> e43d8aeed151bdd395df9e2ae919554bc30e76bd
