@@ -4,9 +4,4 @@ test conflict merge
 test conflict merge2
 test conflict merge3s
 test
-<<<<<<< HEAD
 test
-=======
-test
-test
->>>>>>> bc2aa4c2d1861074a4dda8c7aa35b6cdfc6b72f4
